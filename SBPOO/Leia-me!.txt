@@ -1,0 +1,8 @@
+Colocar a Pasta PathProjeto no diretorio C:\ <- (Windows) Carregar Imagens da interface, caso nao coloque o programa funcionará perfeitamente,
+apenas nao vai ter as imagens dos frames
+
+SBPOO.jar , Só executar o .jar pra rodar , arquivos salvos ficam na pasta onde o .jar está.
+
+SBPOO_doc_src = Documentação , mais codigo feito !
+
+
